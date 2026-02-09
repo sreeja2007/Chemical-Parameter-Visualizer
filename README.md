@@ -215,14 +215,4 @@ Fossee/
 - 4GB RAM minimum
 - Windows/Linux/macOS
 
-## 📝 License
 
-Enterprise Edition - All Rights Reserved
-
-## 👥 Support
-
-For issues and questions, contact the development team.
-
----
-
-**Chemical Equipment Parameter Visualizer** | Enterprise Edition | v1.0.0
